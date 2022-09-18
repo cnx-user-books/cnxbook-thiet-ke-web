@@ -1,0 +1,20 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Nguyễn Thôn Dã">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10906</md:content-id>
+    <md:title>Thiết kế Web</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>30c8f0ef-c8ca-480e-83fb-bc8f700a827c</md:uuid>
+<md:slug>thiet-ke-web</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Thiết kế Web 1</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Thiết kế Web 2</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
